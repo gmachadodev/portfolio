@@ -133,11 +133,12 @@ body {
 
     .cabecalho__menu {
         justify-content: center;
+        gap: 20px;
     }
 
     .apresentacao {
             flex-direction: column-reverse;
-            padding: 5%;
+            padding: 3%;
     }
 
     .apresentacao__conteudo {
