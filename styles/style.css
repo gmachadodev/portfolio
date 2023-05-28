@@ -38,7 +38,7 @@ body {
 
 .cabecalho__menu__link {
     font-family: var(--fonte-secundaria);
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     font-weight: 600;
     color: var(--cor-terciaria);
     text-decoration: none;
@@ -134,6 +134,10 @@ body {
     .cabecalho__menu {
         justify-content: center;
         gap: 20px;
+    }
+
+    .cabecalho__menu__link {
+        font-size: 1.3rem;
     }
 
     .apresentacao {
