@@ -10,7 +10,7 @@ Portfólio criado nos cursos de HTML e CSS da formação de iniciante a programa
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://portfolio-one-ruddy-49.vercel.app/assets/imgimg.jfif#vitrinedev)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSTW26v9TuGMSyiMKzhnwjiA_Wnx35duuD8g&usqp=CAU#vitrinedev)
 
 ## Detalhes do projeto
 
