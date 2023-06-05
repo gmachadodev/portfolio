@@ -6,7 +6,7 @@ Portfólio criado nos cursos de HTML e CSS da formação de iniciante a programa
 | -------------  | --- |
 | :sparkles: Nome        | **Meu Portfílio**
 | :label: Tecnologias | html, css
-| :rocket: URL         | [https://github.com/gmachadodev/portfolio](https://portfolio-one-ruddy-49.vercel.app/)
+| :rocket: URL         | (https://portfolio-one-ruddy-49.vercel.app/)
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
